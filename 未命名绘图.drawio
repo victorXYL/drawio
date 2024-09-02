@@ -52,7 +52,7 @@
         <mxCell id="6M0Tjz0h5s1cv5i4jDKu-22" value="端侧能力：网络/重力感应" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6M0Tjz0h5s1cv5i4jDKu-23" value="端侧能力，网络/重力感应" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="6M0Tjz0h5s1cv5i4jDKu-23" value="端侧能力：网络/重力感应" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
